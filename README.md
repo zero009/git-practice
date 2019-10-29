@@ -141,3 +141,5 @@
     以后，凡是用到git commit命令，一律改为使用git cz。这时，就会出现选项，用来生成符合格式的 Commit message
 ## ghooks 为nodejs打造，帮助实现本地 git hooks     
     npm install ghooks --save-dev
+    
+    git commit 提交报错时 可用 git cz 按照规范选择提交
